@@ -13,7 +13,7 @@ import static com.codeborne.selenide.logevents.SelenideLogger.step;
 @Tag("mainpage")
 public class MainPageTests extends BaseTest {
     MainPage mainPage = new MainPage();
-
+ 
     @DisplayName("Проверка смены города")
     @Tag("mainpage")
     @Test

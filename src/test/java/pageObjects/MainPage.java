@@ -76,7 +76,7 @@ public class MainPage {
         loginButton.click();
         loginInput.sendKeys("mazown");
         loginInput.pressEnter();
-        passwordInput.sendKeys("Blacktest88!");
+        passwordInput.sendKeys("Blacktest1988!");
         passwordInput.pressEnter();
         return this;
     }
